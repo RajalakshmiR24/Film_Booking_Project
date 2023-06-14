@@ -23,9 +23,13 @@ Before running this project, make sure you have the following:
 
 Follow these steps to run the project locally:
 
-1. Clone this repository to your local machine.
-   ```shell
-   https://github.com/RajalakshmiR24/Film_Booking_Project.git
+- In the dropdown menu, select the "Download ZIP" option. This will initiate the download of the repository as a ZIP file.
+
+- Save the ZIP file to your desired location on your computer.
+
+- Once the download is complete, locate the downloaded ZIP file and extract its contents. Most operating systems provide built-in tools for extracting ZIP files. Right-click on the ZIP file and choose the "Extract" or "Extract All" option.
+
+- After extracting the contents of the ZIP file, you should find the README file among the extracted files. Open the README file to view its content.
 
 ## Database Configuration
 
