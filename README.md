@@ -22,14 +22,14 @@ This is a sample repository for a Film Booking project built using Spring Boot, 
 - Integrated Development Environment (IDE) of your choice (e.g., IntelliJ IDEA, Eclipse, Spring Tool Suite 4)
 # Getting Started
 1. Clone the repository:
- ```bash
- git clone https://github.com/your-username/spring-boot-film-booking.git
+   ```shell
+   git clone https://github.com/your-username/spring-boot-film-booking.git
 2. Open the project in your preferred IDE.
 
-3. Configure the MySQL database connection in the application.properties file. Update the spring.datasource.url, spring.datasource.username, and spring.datasource.password properties with your database details.
+3. Configure the MySQL database connection in the application.properties file. Update the spring. data source.url, spring.datasource.username, and spring. data source.password properties with your database details.
 
 4. Run the following command to build and run the application:
 
  ```bash
  mvn spring-boot:run
-5. Once the application is running, access it in your web browser at http://localhost:8080.
+5. Once the application runs, access it in your web browser at http://localhost:8080.
