@@ -30,6 +30,7 @@ This is a sample repository for a Film Booking project built using Spring Boot, 
 
 4. Run the following command to build and run the application:
 
- ```bash
- mvn spring-boot:run
+   ```bash
+   mvn spring-boot:run
+ 
 5. Once the application runs, access it in your web browser at http://localhost:8080.
