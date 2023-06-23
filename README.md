@@ -23,7 +23,7 @@ This is a sample repository for a Film Booking project built using Spring Boot, 
 # Getting Started
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/spring-boot-film-booking.git
+   git clone https://github.com/RajalakshmiR24/Film_Booking_Project.git
 2. Open the project in your preferred IDE.
 
 3. Configure the MySQL database connection in the application.properties file. Update the spring. data source.url, spring.datasource.username, and spring. data source.password properties with your database details.
