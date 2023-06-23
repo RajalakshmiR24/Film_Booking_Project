@@ -34,3 +34,17 @@ This is a sample repository for a Film Booking project built using Spring Boot, 
    mvn spring-boot:run
  
 5. Once the application runs, access it in your web browser at http://localhost:8080.
+
+# Folder Structure
+The project follows a standard Maven folder structure:
+
+- src/main/java: Contains the Java source code.
+- src/main/resources: Contains the application properties and static resources.
+- src/main/webapp/WEB-INF/views: Contains JSP and Thymeleaf templates.
+- src/test: Contains the test classes.
+  
+# Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for more information.
